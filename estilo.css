@@ -10,7 +10,7 @@ body {
     align-items: center;
     height: 100vh;
     text-align: center;
-    background-image: url('imgs/imagem_background.jpg');
+    background-image: url('assets/imagem_background.jpg');
 }
 
 button {
